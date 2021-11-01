@@ -1,0 +1,1 @@
+Instrucciones: Para poder cargar los datasets, es necesario tener el jupyter notebook en la misma carpeta que los csv.
